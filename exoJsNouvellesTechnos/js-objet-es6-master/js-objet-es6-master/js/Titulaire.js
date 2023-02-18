@@ -1,6 +1,7 @@
 /**
  * Titulaires de comptes
  */
+
 class Titulaire{
     /**
      * Titulaires de comptes bancaires
